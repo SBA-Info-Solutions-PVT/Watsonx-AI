@@ -1,3 +1,3 @@
 # Watsonx-AI
 
-This is from QA Team
+This is from QA Team.
